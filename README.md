@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi I'm Benjamin 👋 🧑🏻‍💻
+### Welcome on my github profile ! 😸
+
+I'm a software engineer, specialized in mobile development 📱 ! I'm actually an Android developer at Padam Mobility 🚌 based on Paris ! <br>
+I also teach Android development at university ! 👨🏻‍🏫 <br>
+And I'm passionate about making all kind of projects ( Web, Mobile, and Games ) ⌨ <br>
+
+## If you want to learn more about me 👇
+- Me, my skills and my projects <a href="http://metautbenjamin.com/Presentation">metautbenjamin.com</a> ✍🏾 ⭐️
+- Same but on one page <a href="https://www.linkedin.com/in/benjamin-metaut-a16869137/">LinkedIn</a> 💼
 
 <!--
 **Happeal/Happeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
